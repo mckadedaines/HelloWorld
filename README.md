@@ -4,12 +4,10 @@ I am currently trying to expand my tool kit by learning new programming language
 Python automation to branch out into Cyber Security.
 
 {Description}
-This is just a simple "Hello World!" program to give me a base structure that build off of.
+- This is just a simple "Hello World!" program to give me a base structure that build off of.
 
 {Purpose}
-The purpose of this software is to refine my Python basics.
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+- The purpose of this software is to refine my Python basics.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -20,7 +18,7 @@ The purpose of this software is to refine my Python basics.
 - Git
 
 {Programming languages used}
-I used Python as the primary programming language.
+- Python
 
 <!-- # Useful Websites
 
